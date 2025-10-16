@@ -27,7 +27,7 @@ The models in this repository are trained and evaluated on the [Indian Sign Lang
 
 1. **Clone this repository:**
    ```bash
-   https://github.com/AyushMuralidharan/Meta-Learning-Indian-Sign-Language-Recognition.git
+   https://github.com/tej2612/Meta-Learning-Indian-Sign-Language-Recognition.git
    ```
 2. **Download the ISL dataset:**
    - Visit [this link](https://data.mendeley.com/datasets/s6kgb6r3ss/2) and follow the instructions to download the dataset.
